@@ -1,7 +1,8 @@
-package com.example.tomatect
+package com.example.tomatect.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.tomatect.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
